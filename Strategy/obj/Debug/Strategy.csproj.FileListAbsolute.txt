@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Strategy\bin\Debug\Strategy.dll
+D:\Programs\Projects\Patterns\Strategy\bin\Debug\Strategy.pdb
+D:\Programs\Projects\Patterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Strategy\obj\Debug\Strategy.dll
+D:\Programs\Projects\Patterns\Strategy\obj\Debug\Strategy.pdb

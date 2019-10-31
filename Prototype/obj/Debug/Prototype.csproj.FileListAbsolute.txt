@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Prototype\bin\Debug\Prototype.dll
+D:\Programs\Projects\Patterns\Prototype\bin\Debug\Prototype.pdb
+D:\Programs\Projects\Patterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Prototype\obj\Debug\Prototype.dll
+D:\Programs\Projects\Patterns\Prototype\obj\Debug\Prototype.pdb

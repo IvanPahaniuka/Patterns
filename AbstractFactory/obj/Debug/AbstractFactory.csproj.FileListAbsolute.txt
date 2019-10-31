@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+D:\Programs\Projects\Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Programs\Projects\Patterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+D:\Programs\Projects\Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
