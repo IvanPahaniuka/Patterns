@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Flyweight\bin\Debug\Flyweight.dll
+D:\Programs\Projects\Patterns\Flyweight\bin\Debug\Flyweight.pdb
+D:\Programs\Projects\Patterns\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Flyweight\obj\Debug\Flyweight.dll
+D:\Programs\Projects\Patterns\Flyweight\obj\Debug\Flyweight.pdb

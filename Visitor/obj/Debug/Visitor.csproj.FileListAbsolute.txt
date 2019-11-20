@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Visitor\bin\Debug\Visitor.dll
+D:\Programs\Projects\Patterns\Visitor\bin\Debug\Visitor.pdb
+D:\Programs\Projects\Patterns\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Visitor\obj\Debug\Visitor.dll
+D:\Programs\Projects\Patterns\Visitor\obj\Debug\Visitor.pdb

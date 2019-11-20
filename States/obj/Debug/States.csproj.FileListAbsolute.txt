@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\States\bin\Debug\States.dll
+D:\Programs\Projects\Patterns\States\bin\Debug\States.pdb
+D:\Programs\Projects\Patterns\States\obj\Debug\States.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\States\obj\Debug\States.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\States\obj\Debug\States.dll
+D:\Programs\Projects\Patterns\States\obj\Debug\States.pdb

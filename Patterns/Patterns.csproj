@@ -54,13 +54,61 @@
       <Project>{6f38a25c-721f-4556-b542-8891c21f8af0}</Project>
       <Name>AbstractFactory</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Adapter\Adapter.csproj">
+      <Project>{c56d6002-6a08-471a-841e-cad1efd72b92}</Project>
+      <Name>Adapter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bridge\Bridge.csproj">
+      <Project>{f313da91-3a82-44a4-8b64-d07d93db884f}</Project>
+      <Name>Bridge</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Builder\Builder.csproj">
       <Project>{37ed5fff-a530-4eb5-bcd0-d64a1118dbec}</Project>
       <Name>Builder</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ChainOfResponsibility\ChainOfResponsibility.csproj">
+      <Project>{f1294250-223b-4c21-81e0-04bc0ab6b13e}</Project>
+      <Name>ChainOfResponsibility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Command\Command.csproj">
+      <Project>{c8165d65-b719-4a9b-8107-9c19f9f7134b}</Project>
+      <Name>Command</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Composite\Composite.csproj">
+      <Project>{d207c40b-fc97-4802-95d4-4c05a27d699f}</Project>
+      <Name>Composite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decorator\Decorator.csproj">
+      <Project>{73e5b77d-9661-4c66-bad5-dfb2c11816e2}</Project>
+      <Name>Decorator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Facade\Facade.csproj">
+      <Project>{abe97332-c08d-444e-ae8a-948c89e79718}</Project>
+      <Name>Facade</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Factory\Factory.csproj">
       <Project>{2dd67340-7c83-424f-b5aa-bea0da535cc6}</Project>
       <Name>Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Flyweight\Flyweight.csproj">
+      <Project>{1506df0f-833c-430e-9c9f-76221eb28606}</Project>
+      <Name>Flyweight</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interpreter\Interpreter.csproj">
+      <Project>{a5eb5824-e9eb-46cb-b01d-3a2c46d46417}</Project>
+      <Name>Interpreter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iterator\Iterator.csproj">
+      <Project>{7839d607-d4a2-4829-93a1-949aba0c2b2e}</Project>
+      <Name>Iterator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mediator\Mediator.csproj">
+      <Project>{44a95b75-2219-4f77-b579-70124071be3f}</Project>
+      <Name>Mediator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Memento\Memento.csproj">
+      <Project>{d52a7c88-9bca-42c3-a213-ccdbcdb24582}</Project>
+      <Name>Memento</Name>
     </ProjectReference>
     <ProjectReference Include="..\Observer\Observer.csproj">
       <Project>{bff881b5-6b59-40b0-af3b-7145bd10d1fa}</Project>
@@ -70,13 +118,29 @@
       <Project>{e3a6ffb7-f123-4e0b-af4b-b5d872e43393}</Project>
       <Name>Prototype</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Proxy\Proxy.csproj">
+      <Project>{375d2a09-56f8-4bb0-9c5b-fd9f9586772e}</Project>
+      <Name>Proxy</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Singleton\Singleton.csproj">
       <Project>{09dfd43e-1987-4c67-acb1-49b7d3d5852e}</Project>
       <Name>Singleton</Name>
     </ProjectReference>
+    <ProjectReference Include="..\States\States.csproj">
+      <Project>{1b168efa-9b9b-458b-bd4d-3608e75c466d}</Project>
+      <Name>States</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Strategy\Strategy.csproj">
       <Project>{7715cd3e-398b-49d0-88f5-bc367c236a8f}</Project>
       <Name>Strategy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Template\Template.csproj">
+      <Project>{a192225e-d191-40a5-8d42-c678ba73ee68}</Project>
+      <Name>Template</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Visitor\Visitor.csproj">
+      <Project>{98ac74cc-75e3-46d4-ad4d-36551150adbe}</Project>
+      <Name>Visitor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

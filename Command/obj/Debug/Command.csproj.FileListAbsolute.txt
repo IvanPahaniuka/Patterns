@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Command\bin\Debug\Command.dll
+D:\Programs\Projects\Patterns\Command\bin\Debug\Command.pdb
+D:\Programs\Projects\Patterns\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Command\obj\Debug\Command.dll
+D:\Programs\Projects\Patterns\Command\obj\Debug\Command.pdb

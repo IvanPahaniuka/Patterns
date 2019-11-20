@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Composite\bin\Debug\Composite.dll
+D:\Programs\Projects\Patterns\Composite\bin\Debug\Composite.pdb
+D:\Programs\Projects\Patterns\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Composite\obj\Debug\Composite.dll
+D:\Programs\Projects\Patterns\Composite\obj\Debug\Composite.pdb

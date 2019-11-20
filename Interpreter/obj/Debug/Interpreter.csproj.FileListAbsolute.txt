@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Interpreter\bin\Debug\Interpreter.dll
+D:\Programs\Projects\Patterns\Interpreter\bin\Debug\Interpreter.pdb
+D:\Programs\Projects\Patterns\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Interpreter\obj\Debug\Interpreter.dll
+D:\Programs\Projects\Patterns\Interpreter\obj\Debug\Interpreter.pdb

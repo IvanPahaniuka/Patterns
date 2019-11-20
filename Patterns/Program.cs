@@ -20,7 +20,7 @@ namespace Patterns
 
         static void Body()
         {
-            Observer.ObserverTest.Test();
+            Flyweight.Flyweight.Test();
         }
 
         

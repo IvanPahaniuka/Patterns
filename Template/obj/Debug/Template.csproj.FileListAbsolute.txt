@@ -1,0 +1,6 @@
+D:\Programs\Projects\Patterns\Template\bin\Debug\Template.dll
+D:\Programs\Projects\Patterns\Template\bin\Debug\Template.pdb
+D:\Programs\Projects\Patterns\Template\obj\Debug\Template.csprojAssemblyReference.cache
+D:\Programs\Projects\Patterns\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Patterns\Template\obj\Debug\Template.dll
+D:\Programs\Projects\Patterns\Template\obj\Debug\Template.pdb
